@@ -2,6 +2,17 @@
 
 Grunt tasks for zsh completion.
 
+## Deprecation Warning
+
+grunt-cli now supports
+[bash tab completion](https://github.com/gruntjs/grunt-cli#shell-tab-auto-completion)
+and no longer provides a list command.
+
+It should be possible to parse `grunt --version --verbose` or use bash
+completion in zsh with
+[bashcompinit](https://github.com/zsh-users/zsh/blob/master/Completion/bashcompinit)
+or [bash_source](http://zshwiki.org/home/convert/bash).
+
 ## Getting Started
 Install this grunt plugin next to your project's [grunt.js gruntfile][getting_started] with: `npm install grunt-shell-completion`
 
