@@ -56,12 +56,6 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
-## TODO
-
-* Push upstream to get a grunt quiet mode (remove Done and running lines)
-* Add completion for dashed grunt options
-* Support bash and other shells
-
 ## License
 Copyright (c) 2012 Greg Guthe
 Licensed under the MIT license.
